@@ -4,23 +4,23 @@
 
 A simple calculator built with **React** and **Math.js**.
 
-## 🚀 Live Demo
+# Live Demo
 
 [View on GitHub Pages](https://mkbello.github.io/calculator-app)
 
-## ⚡ Features
+# Features
 
 * Basic arithmetic operations (+, -, ×, ÷)
 * Clean and responsive UI
 * Fast and lightweight
 
-## 🛠️ Tech Stack
+# Tech Stack
 
 * React
 * Math.js
 * CSS
 
-## 📦 Setup
+# Setup
 
 ```bash
 git clone https://github.com/mkbello/calculator-app.git
@@ -29,9 +29,10 @@ npm install
 npm start
 ```
 
-## 📌 Deployment
+# Deployment
 
 Deployed on **GitHub Pages** using `gh-pages`.
 
 ---
+
 
